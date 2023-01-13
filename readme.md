@@ -2,6 +2,8 @@
 
 - Live link: <https://project-sign-up-form-five.vercel.app/>
 
+![screenshot of project](./assets/live-link.png)
+
 ## Purpose
 
 - A form validation practice project
